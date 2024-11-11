@@ -5,9 +5,7 @@ import Featuring from "./components/Featuring/page";
 
 export default function Home() {
   return ( 
-    <div className="py-16">
-      {/* PAK-WHEELS WEBSITE HOMEWORK <br/> */}
-    
+    <div className="py-16">    
       <Hero />
       <Featuring />
 
